@@ -1,0 +1,1 @@
+prescription table = doctorname, patient name, visitdate of medical report, clinic name, medicine name, dosage from med table.
